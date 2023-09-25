@@ -1,9 +1,9 @@
-# Project laravel-react-mysql-docker-app
+# Project laravel-carting-app
 
 ### Installing and running the Following commands
 
 ```
-git clone https://github.com/Elangosurya1998/Religio.git
+git clone https://github.com/Elangosurya1998/cart.git
 ```
 
 ```
