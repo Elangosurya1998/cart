@@ -28,25 +28,12 @@ php artisan migrate
 or
 php artisan migrate --seed
 ```
+```
+php artisan serve
+or
+php artisan serve --port=9000 // with port 
+```
 
-```
-cd ..
-```
-```
-cd frontend
-```
-```
-npm install
-```
-```
-cd ..
-```
-```
-docker-compose build
-```
-```
-docker-compose up
-```
 
 
 
